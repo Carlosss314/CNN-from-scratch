@@ -1,5 +1,3 @@
-#modifications du code pour que je le comprenne mieux
-
 import numpy as np
 import matplotlib.pyplot as plt
 import h5py
