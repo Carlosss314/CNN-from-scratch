@@ -3,7 +3,7 @@
 projet assez similaire à "ANN-from-scratch" mais en utilisant ici des réseaux de neurones convolutifs
 
 
-le réseau de neurones et le code nécessaire à son entraînement correspond au fichier "code4.py"
+le réseau de neurones et le code nécessaire à son entraînement correspondent au fichier "code4.py"
 
 le dossier "weights_and_bias2" contient les poids du réseau de neurones
 
